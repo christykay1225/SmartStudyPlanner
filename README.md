@@ -18,21 +18,15 @@ A web-based application designed to help students manage their study schedules e
 - **AI**: Gemini API for study time suggestions
 
 ## Directory Structure
-
-## Directory Structure
-SmartStudyPlanner/
-│
-├── frontend/        # React frontend code
-│   ├── src/
-│   └── public/
-│
-├── backend/         # Flask backend code
-│   ├── app.py       # Main Flask application
-│   ├── venv/        # Virtual environment for Python dependencies
-│   ├── static/
-│   └── templates/
-│
-├── database/        # SQLite database files
-│   └── .gitkeep
-│
-└── README.md        # This README file
+📂 **SmartStudyPlanner/**
+- 📁 **frontend/**: React frontend code
+  - 📁 **src/**
+  - 📁 **public/**
+- 📁 **backend/**: Flask backend code
+  - 📄 **app.py**: Main Flask application
+  - 📁 **venv/**: Virtual environment for Python dependencies
+  - 📁 **static/**
+  - 📁 **templates/**
+- 📁 **database/**: SQLite database files
+  - 📄 **.gitkeep**
+- 📄 **README.md**: This README file
